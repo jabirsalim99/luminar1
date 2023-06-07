@@ -1,0 +1,33 @@
+.carousel-caption{
+    width: 50%;
+    text-align: left;
+    margin-left: -200px;
+    margin-top: -500px;
+}
+.h21{
+    margin: 20px;
+    padding-top: 50px;
+}
+span{
+    color: rgb(231, 102, 231);
+}
+.data3{
+    padding: 10px;
+}
+.data3 h3{
+    font-size: 26px;
+}
+.img1 img{
+    width: 100%;
+}
+.button2{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 200px;
+}
+button:hover{
+    background-color: blueviolet;
+}
+.card:hover{
+    box-shadow: 1px purple;
+}
